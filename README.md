@@ -1,4 +1,28 @@
-### 30 Days of JavaScript  
-*A structured JavaScript challenge to deepen core concepts and build consistent coding habits.*  
-🔹 *Tech:* JavaScript, ES6+, Problem Solving  
-📅 *Activity:* Updated recently — active streak maintained.
+
+
+This repository contains my solutions to the **30 Days JavaScript Problem Solving Challenge** on LeetCode.
+
+## 📌 Goal
+To improve:
+- Problem-solving skills 🧠
+- Data Structures & Algorithms (DSA)
+- JavaScript proficiency ⚡
+- Consistency & discipline 📈
+
+---
+
+## 🗓️ Challenge Details
+- Duration: 30 Days
+- Platform: LeetCode
+- Language: JavaScript
+- Status: In Progress 🔄
+
+---
+
+## 📂 Structure
+Each file contains:
+- Problem Name
+- Approach / Logic
+- Optimized JavaScript Solution
+
+Example:
